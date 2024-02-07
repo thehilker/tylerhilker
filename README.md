@@ -33,7 +33,7 @@ It’s the right size (an even 300ml of coffee, with an even 20g of grounds), si
 **[OXO Pourover](https://www.oxo.com/pour-over-coffee-maker-with-water-tank.html)**
 Of all the brewing methods, this is my daily go-to for two reasons: Pour the water all at once and find the filters anywhere. The plastic is great for our house and ideal for camping. I prefer Central & South American, Indonesian, & darker roasted coffees, but I’ll drink almost anything.
 
-[**Leuchtturm Classic Notebook](https://www.leuchtturm1917.us/classic-notebooks-1.html)**
+**[Leuchtturm Classic Notebook](https://www.leuchtturm1917.us/classic-notebooks-1.html)**
 The feel of this paper is outstanding. The shade of gray dot is perfect; it’s supportive if I want structure, but not so visible that it interrupts freeform sketches. 
 
 **///**
@@ -66,57 +66,31 @@ Having lived through a handful of somewhat interesting experiences, I’ve been 
 
 ## Running list of **Oreo varieties I’ve evaluated**
 
-**Remarkable:**
-Blueberry pie
-
-Apple pie
-
-Rice Krispy Treats
-
-Kettle Corn
-
-Birthday cake
-
-Fruity crisps
-
-Good Humor Strawberry Shortcake
-
-Carrot Cake
-
-Jelly Doughnut
-
-Cotton Candy
-
-Caramel Apple
-
-Peanut Butter
-
-Maple Crème
-
-**Others:** 
-Easter
-
-Love
-
-Rocky Road Trip
-
-Mystery/Fruity Pebbles
-
-Cookie Butter
-
-Fireworks
-
-Cherry Cola
-
-Peanut Butter
-
-S'Mores 
-
-Watermelon
-
-Cookies & Creme
-
-Peeps
+| Remarkable | Not as much
+| --- | ----------- |
+| Space Dunk | Mocha Caramel Latte |
+| Blueberry pie | Easter |
+| Apple pie | Love |
+| Rice Krispy Treats | Rocky Road Trip |
+| Kettle Corn | Mystery/Fruity Pebbles |
+| Birthday cake | Cookie Butter |
+| Fruity crisps | Fireworks |
+| Good Humor Strawberry Shortcake | Toffee Crunch |
+| Carrot Cake | Cherry Cola |
+| Jelly Doughnut | Peanut Butter |
+| Cotton Candy | S'Mores |
+| Caramel Apple | Watermelon |
+| Peanut Butter | Cookies & Creme |
+| Maple Crème | Peeps |
+| Neapolitan | Java Chip |
+| Strawberry Frosted Donut | 
+| Chocolate Hazelnut | 
+| Pumpkin Spice | 
+| 100 Birthday | 
+| Brookie-O | 
+| Apple Cider Donut |
+| Gingerbread |
+| Blackout Cake |
 
 **///**
 
