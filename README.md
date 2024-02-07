@@ -14,17 +14,11 @@ You can find me elsewhere, too: [X,](https://x.com/thehilker?s=21&t=hsxEnviB74V
 
 ## Some ideas I play around with
 
-**Asymmetric Attention**
+**Asymmetric Attention** is the phenomenon of unintentionally minimizing the work and contribution of others. It’s like seeing their work through a keyhole, assuming that whatever we can see through that keyhole is all that exists or all that matters when in reality, the space is much larger. This underneath why we ask others, “How hard can it be?” or “Why don’t you just do…?” 
 
-The phenomenon of unintentionally minimizing the work and contribution of others. It’s like seeing their work through a keyhole, assuming that whatever we can see through that keyhole is all that exists or all that matters when in reality, the space is much larger. This underneath why we ask others, “How hard can it be?” or “Why don’t you just do…?” 
+**Collect the dots; connect the dots** is a simple phrase to remind myself that both mindsets are required for great work.
 
-**Collect the dots; connect the dots**
-
-A simple phrase to remind myself that both mindsets are required for great work.
-
-**Organizational Overhead**
-
-The cost of working in or with any organization. Politics, processes, systems, technology, etc. 
+**Organizational Overhead** is the cost of working in or with any organization. Politics, processes, systems, technology, etc. 
 
 **///**
 
