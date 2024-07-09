@@ -6,7 +6,7 @@ I’ve got an amazing wife, four kids, two dogs, and four cats. We live on a big
 
 I’m one who hopes in Jesus but struggles greatly to consistently live into that reality; I’m thankful for grace & small wins. 
 
-As the VP of Strategy at [Crema](https://www.crema.us/) — a design & technology consultancy in the great minor Midwest metropolis of Kansas City — I help find, shape, and unlock opportunities. 
+As the VP of Strategy at [Crema](https://www.crema.us/) — a design & technology consultancy in Kansas City — I help find, shape, and unlock opportunities. 
 
 You can find me elsewhere, too: [X,](https://x.com/thehilker?s=21&t=hsxEnviB74VyrsVp6DZTxg) [LinkedIn](https://www.linkedin.com/in/tylerhilker?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app), [Medium](https://medium.com/@thehilker), [Farcaster](https://warpcast.com/trh), [OpenSea](https://opensea.io/thehilker), and [Substack](https://substack.com/@thehilker?r=4xyyn&utm_medium=ios&utm_source=profile). 
 
