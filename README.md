@@ -28,7 +28,7 @@ You can find me elsewhere, too: [X,](https://x.com/thehilker?s=21&t=hsxEnviB74V
 Comfortable and inexpensive enough to not care about them getting ruined.
 
 **Diner-style mugs**
-It’s the right size (an even 300ml of coffee, with an even 20g of grounds), sits well in your hands, and has nice insulative properties. I have a collection of yet-to-be-determined size.
+It’s the right size (an even 300ml of coffee, with an even 20g of grounds), sits well in your hands, and has nice insulative properties. I look for them in every coffee shop and have a rather large collection.
 
 **[OXO Pourover](https://www.oxo.com/pour-over-coffee-maker-with-water-tank.html)**
 Of all the brewing methods, this is my daily go-to for two reasons: Pour the water all at once and find the filters anywhere. The plastic is great for our house and ideal for camping. I prefer Central & South American, Indonesian, & darker roasted coffees, but I’ll drink almost anything.
@@ -57,6 +57,7 @@ Having lived through a handful of somewhat interesting experiences, I’ve been 
 - 2018 West Coast road trip: family of 6 (kids 10, 8, 7, & 2), 6,070 miles, 30 days, 13 states, 14 nights in a tent, two weeks of remote work, six audiobooks, 1 minivan; Crater Lake NP, Jedediah Smith SP, Zion NP, Bryce Canyon NP, Grand Canyon NP (North Rim), Arches NP
 - 2020 road trip: Yellowstone NP, Grand Tetons NP, Mt Rushmore NM, Badlands NP. Camping 8/12 nights
 - 2023 road trip: Great Sand Dunes NP, Grand Canyon NP, Black Canyon of the Gunnison NP
+- 2024 road trip: 4,400 miles; 15 days; Phoenix, Joshua Tree NP, Yosemite NP, Big Basin Redwoods SP, Santa Cruz, San Francisco, Lake Tahoe, Dinosaur NM, Steamboat Springs
 - Midwest brewery road trip: four beer-nerd friends, 4 days, 8 states, 13 breweries, 34 beers (mostly tasters, I promise!), 1 expensive beer tragedy
 - Alaskan honeymoon cruise
 - Thailand teaching English to native Thai who would be teaching English
