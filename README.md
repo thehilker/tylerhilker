@@ -30,9 +30,13 @@ You can find me elsewhere, too: 
 
 ## Some recent side projects
 [gryd](https://gryd.fun)
+
 [vrbl](https://vrbl.fun)
+
 [d3c0d3](https://d3c0d3.fun)
+
 [OpenSea](https://opensea.io/thehilker/created)
+
 [Glitch Reality](https://opensea.io/collection/glitch-reality-2)
 
 
