@@ -2,13 +2,17 @@
 
 I get pumped about shaping perspectives and systems in order to overcome challenges and make the most of opportunities. I’m often addressing alignment issues, scratching itches, & learning how to slow down faster.
 
-I’ve got an amazing wife, four kids, two dogs, and four cats. We live on a big yard where we grow various fruits, vegetables, & hops. 
+I’ve got an amazing wife, four incredible kids, two dogs, and four cats. We live on a big yard where we grow various flowers, fruits, vegetables, & weeds. 
 
 I’m one who hopes in Jesus but struggles greatly to consistently live into that reality; I’m thankful for grace & small wins. 
 
 As the VP of Strategy at [Crema](https://www.crema.us/) — a design & technology consultancy in Kansas City — I help find, shape, and unlock opportunities for people, teams, and products. 
 
-You can find me elsewhere, too: [X,](https://x.com/thehilker?s=21&t=hsxEnviB74VyrsVp6DZTxg) [LinkedIn](https://www.linkedin.com/in/tylerhilker?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app), [Medium](https://medium.com/@thehilker), [Farcaster](https://warpcast.com/trh), and [OpenSea](https://opensea.io/thehilker). 
+You can find me elsewhere, too: 
+[Farcaster](https://warpcast.com/trh)
+[X](https://x.com/thehilker)
+[LinkedIn](https://www.linkedin.com/in/tylerhilker)
+[Medium](https://medium.com/@thehilker) 
 
 **///**
 
@@ -21,6 +25,16 @@ You can find me elsewhere, too: [X,](https://x.com/thehilker?s=21&t=hsxEnviB74V
 **Organizational Overhead** is the cost of working in or with any organization. Politics, processes, systems, technology, etc. 
 
 **Distribution multiplies distribution** means that as a product adds users, it will field exponentially more and a broader variety of requests to meet the needs of said users. 
+
+**///**
+
+## Some recent side projects
+[gryd](https://gryd.fun)
+[vrbl](https://vrbl.fun)
+[d3c0d3](https://d3c0d3.fun)
+[OpenSea](https://opensea.io/thehilker/created)
+[Glitch Reality](https://opensea.io/collection/glitch-reality-2)
+
 
 **///**
 
