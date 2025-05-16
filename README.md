@@ -12,7 +12,10 @@ You can find me elsewhere, too: 
 [Farcaster](https://warpcast.com/trh)
 [X](https://x.com/thehilker)
 [LinkedIn](https://www.linkedin.com/in/tylerhilker)
+[Substack](https://thehilker.substack.com/)
+[Paragraph](https://paragraph.com/@oo)
 [Medium](https://medium.com/@thehilker) 
+Yes, I'm a publication nomad. 
 
 **///**
 
@@ -29,15 +32,15 @@ You can find me elsewhere, too: 
 **///**
 
 ## Some recent side projects
-[gryd](https://gryd.fun)
+[gryd](https://gryd.fun): A deceptively simple, progressively difficult tapping game.
 
-[vrbl](https://vrbl.fun)
+[vrbl](https://vrbl.fun): Like the analog classic Boggle, but harder.
 
-[d3c0d3](https://d3c0d3.fun)
+[d3c0d3](https://d3c0d3.fun): Speed CAPTCHA.
 
-[OpenSea](https://opensea.io/thehilker/created)
+[OpenSea](https://opensea.io/thehilker/created): Various photography NFTs.
 
-[Glitch Reality](https://opensea.io/collection/glitch-reality-2)
+[Glitch Reality](https://opensea.io/collection/glitch-reality-2): Generative NFT collection.
 
 
 **///**
@@ -114,37 +117,6 @@ Having lived through a handful of somewhat interesting experiences, I’ve been 
 | Gingerbread | 
 | Blackout Cake | 
 | Churro | 
-
-**///**
-
-## **Selected compositions of note**
-
-**[Growfish: Make learning the center of your sprint retros](https://t.umblr.com/redirect?z=https%3A%2F%2Fmedium.com%2Fideas-by-crema%2Fgrowfish-make-learning-the-center-of-your-sprint-retros-16970a155e19&t=MWRmNzY2YWJjNWI4MTczN2JmNjhjNTc2Mjg0OGYzYTAzMDIzNTc1MCxRYWxQR2FMSQ%3D%3D&b=t%3Ap4y5TfnTQOIrthiWJoBVOg&p=https%3A%2F%2Ftylerhilker.com%2Fpost%2F152556579778%2Fselected-compositions-of-note&m=1&ts=1606751448)**
-A new tweak to an old tool
-
-**[Three questions for better project kickoffs](https://t.umblr.com/redirect?z=https%3A%2F%2Fmedium.com%2Fideas-by-crema%2Fthree-questions-towards-a-rich-project-kickoff-e8f1bcfa5213&t=MTUzZGZkZWU5MDU3MzAyMDgzNWE0M2E3NzVhYTZlZjA3YTNlZWZlMCxRYWxQR2FMSQ%3D%3D&b=t%3Ap4y5TfnTQOIrthiWJoBVOg&p=https%3A%2F%2Ftylerhilker.com%2Fpost%2F152556579778%2Fselected-compositions-of-note&m=1&ts=1606751448)**
-Getting better collaboration with a single simple email
-
-**[Land & Layers: The Game of Product Strategy](https://t.umblr.com/redirect?z=https%3A%2F%2Fmedium.com%2Fideas-by-crema%2Fland-layers-the-game-of-product-strategy-49bbd35186fe&t=NTA3YWY0ZmM2ODA2YmJlNzZlZmFjMjMzYTk1NWFjMmRjMGRkYzFkMyxRYWxQR2FMSQ%3D%3D&b=t%3Ap4y5TfnTQOIrthiWJoBVOg&p=https%3A%2F%2Ftylerhilker.com%2Fpost%2F152556579778%2Fselected-compositions-of-note&m=1&ts=1606751448)**
-Strategic product expansion packs that pack positive punch
-
-**[Good Design is Not Enough](https://t.umblr.com/redirect?z=https%3A%2F%2Fmedium.com%2Fthe-recognition-effect%2Fgood-design-is-not-enough-2bd7592fcde5&t=MWRiZGVjMzliNmM5MjdlMzAyYTAwYWZjZDQ2ZDU4ZDNlN2Y0ZjQyOSxRYWxQR2FMSQ%3D%3D&b=t%3Ap4y5TfnTQOIrthiWJoBVOg&p=https%3A%2F%2Ftylerhilker.com%2Fpost%2F152556579778%2Fselected-compositions-of-note&m=1&ts=1606751448)**
-On the interplay of understanding, communicating, & designing within a problem/solution space.
-
-**[Effort to Resolve](https://t.umblr.com/redirect?z=https%3A%2F%2Fmedium.com%2Fthe-recognition-effect%2Feffort-to-resolve-4f58cd188239&t=YTgzMDkyOTE0NTAzZTA1YTA2NTlmZmZiYThiNTc2YmFmM2ViOWExMyxRYWxQR2FMSQ%3D%3D&b=t%3Ap4y5TfnTQOIrthiWJoBVOg&p=https%3A%2F%2Ftylerhilker.com%2Fpost%2F152556579778%2Fselected-compositions-of-note&m=1&ts=1606751448)**
-Absorbing the dysfunction of a system to alleviate customer pain.
-
-**[Moms, Opps, & Obs](https://t.umblr.com/redirect?z=https%3A%2F%2Fmedium.com%2Fthe-recognition-effect%2Fmoms-opps-obs-98c6dca00057&t=OGM3YjIyZjkwYmJmNjIxOGE3MTk4YTBmYjIyYjRhYTk3OTIzZjE3MSxRYWxQR2FMSQ%3D%3D&b=t%3Ap4y5TfnTQOIrthiWJoBVOg&p=https%3A%2F%2Ftylerhilker.com%2Fpost%2F152556579778%2Fselected-compositions-of-note&m=1&ts=1606751448)**
-Yet another way to approach problems of any sort, size, or context.
-
-**[Mind the Gaps](https://t.umblr.com/redirect?z=https%3A%2F%2Fmedium.com%2Fthe-recognition-effect%2Fmind-the-gaps-f9a59ff4ca58&t=YWI1MTMwNGJhNDA2OTY4OTlkZGRiMzgzMWFkODZmZmU3NzBkNjRiMCxRYWxQR2FMSQ%3D%3D&b=t%3Ap4y5TfnTQOIrthiWJoBVOg&p=https%3A%2F%2Ftylerhilker.com%2Fpost%2F152556579778%2Fselected-compositions-of-note&m=1&ts=1606751448)**
-Transitions are the killer app…lication of holistic design.
-
-**[How I Think About Work](https://t.umblr.com/redirect?z=https%3A%2F%2Fmedium.com%2Fbecause-people%2Fhow-i-think-about-work-d059db9209e5%23.7zznh9z48&t=YmJiNmExOGJjNzc1Y2UyZGQyMGNmNzM2NjRmODUzNjc1ZmQ2ZjYyZCxRYWxQR2FMSQ%3D%3D&b=t%3Ap4y5TfnTQOIrthiWJoBVOg&p=https%3A%2F%2Ftylerhilker.com%2Fpost%2F152556579778%2Fselected-compositions-of-note&m=1&ts=1606751448)**
-Musing on the importance of certain skills in an experience designer’s world.
-
-**[The Planotes Method](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fplanotes-method-tyler-hilker&t=YTgxOGNhN2RmMmE5NTY1NTFiMmU3MTBiZjY1ODBiMmVmY2RhNWEwMixRYWxQR2FMSQ%3D%3D&b=t%3Ap4y5TfnTQOIrthiWJoBVOg&p=https%3A%2F%2Ftylerhilker.com%2Fpost%2F152556579778%2Fselected-compositions-of-note&m=1&ts=1606751448)**
-For task tracking & productivity nerds. [I’ve since moved on from this methodology, but still use parts of it.]
 
 **///**
 
