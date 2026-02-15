@@ -1,0 +1,2 @@
+#Single-serving Software
+Single-serving software is the long tail of digital products. 
