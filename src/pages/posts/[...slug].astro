@@ -1,0 +1,123 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('posts');
+  return posts.map((post) => ({
+    params: { slug: post.slug },
+    props: post,
+  }));
+}
+
+const post = Astro.props;
+const { Content } = await post.render();
+---
+
+<Layout title={`${post.data.title} - Tyler Hilker`} description={post.data.description}>
+  <main>
+    <article>
+      <header>
+        <p><a href="/posts/">← Posts</a></p>
+        <h1>{post.data.title}</h1>
+        <time datetime={post.data.date.toISOString()}>
+          {post.data.date.toLocaleDateString('en-US', {
+            year: 'numeric',
+            month: 'long',
+            day: 'numeric',
+          })}
+        </time>
+      </header>
+
+      <div class="content">
+        <Content />
+      </div>
+    </article>
+  </main>
+</Layout>
+
+<style>
+  main {
+    animation: fadeIn 0.4s ease-out;
+  }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(8px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  header {
+    margin-bottom: 2rem;
+  }
+
+  header p {
+    margin-bottom: 1.5rem;
+  }
+
+  h1 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+  }
+
+  time {
+    color: var(--color-text-muted);
+    font-size: 0.9rem;
+  }
+
+  .content {
+    margin-top: 2rem;
+  }
+
+  .content :global(p) {
+    margin-bottom: 1.25rem;
+  }
+
+  .content :global(h2) {
+    margin-top: 2rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .content :global(h3) {
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .content :global(ul),
+  .content :global(ol) {
+    margin-bottom: 1.25rem;
+  }
+
+  .content :global(blockquote) {
+    border-left: 2px solid var(--color-border);
+    padding-left: 1rem;
+    margin: 1.5rem 0;
+    color: var(--color-text-muted);
+  }
+
+  .content :global(code) {
+    font-family: var(--font-mono);
+    font-size: 0.9em;
+    background: var(--color-border);
+    padding: 0.15em 0.3em;
+    border-radius: 3px;
+  }
+
+  .content :global(pre) {
+    background: var(--color-border);
+    padding: 1rem;
+    border-radius: 4px;
+    overflow-x: auto;
+    margin: 1.5rem 0;
+  }
+
+  .content :global(pre code) {
+    background: none;
+    padding: 0;
+  }
+</style>
