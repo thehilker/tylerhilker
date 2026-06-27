@@ -1,8 +1,8 @@
 ---
 import Layout from '../layouts/Layout.astro';
 
-const images = await Astro.glob('/public/mugs/*.{jpg,jpeg,png,webp,avif}');
-const mugs = images.map((img) => img.default ?? img);
+const imageModules = import.meta.glob('/public/mugs/*.{jpg,jpeg,png,webp,avif}');
+const mugs = Object.keys(imageModules).map(path => path.replace('/public', ''));
 ---
 
 <Layout title="Mugs — Tyler Hilker" description="Tyler Hilker's diner mug collection">
