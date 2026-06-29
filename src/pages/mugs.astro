@@ -1,8 +1,9 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import { Image } from 'astro:assets';
 
-const imageModules = import.meta.glob('/public/mugs/*.{jpg,jpeg,png,webp,avif}');
-const mugs = Object.keys(imageModules).map(path => path.replace('/public', ''));
+const imageModules = import.meta.glob<{ default: ImageMetadata }>('../assets/mugs/*.{jpg,jpeg,png,webp,avif}', { eager: true });
+const mugs = Object.values(imageModules).map(m => m.default);
 ---
 
 <Layout title="Mugs — Tyler Hilker" description="Tyler Hilker's diner mug collection">
@@ -21,7 +22,7 @@ const mugs = Object.keys(imageModules).map(path => path.replace('/public', ''));
       <div class="mug-grid">
         {mugs.map((src) => (
           <div class="mug">
-            <img src={src} alt="Mug" loading="lazy" />
+            <Image src={src} alt="Mug" width={400} height={400} loading="lazy" />
           </div>
         ))}
       </div>
