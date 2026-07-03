@@ -1,0 +1,159 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { Image } from 'astro:assets';
+import th1 from '../../assets/projects/th/th-1.png';
+import th2 from '../../assets/projects/th/th-2.png';
+import th3 from '../../assets/projects/th/th-3.png';
+import th4 from '../../assets/projects/th/th-4.png';
+import th5 from '../../assets/projects/th/th-5.png';
+import th6 from '../../assets/projects/th/th-6.png';
+import th7 from '../../assets/projects/th/th-7.png';
+---
+
+<Layout
+  title="Personal Mark — Tyler Hilker"
+  description="Making my own mark: a personal logo built from my initials, Highland tartan colors, and a love of architecture."
+>
+  <main>
+    <header>
+      <a href="/" class="back muted small">← Tyler Hilker</a>
+      <h1>Making My Own Mark</h1>
+      <p class="muted">There's more than a bit of vanity here, I'm not going to lie. I made a mark for myself out of my initials.</p>
+    </header>
+
+    <hr />
+
+    <article>
+      <Image src={th1} alt="Personal mark exploration" width={700} loading="lazy" />
+
+      <p>
+        For years, I've long found myself messing around with an initial-mark when initialing
+        forms of some sort. The two pairs of perpendicular lines were begging for more attention.
+      </p>
+      <p>
+        The mark &amp; scheme were inspired (knowingly &amp; subconsciously) by a few things. Most
+        of these rationalizations are post-hoc: observations &amp; reflections that couldn't have
+        been verbalized at the outset, but meaning emerges throughout the process. I think this is
+        true of most brand/logo/art explanations, and I've tried to minimize pretense &amp;
+        puffery in mine.
+      </p>
+
+      <h3>The characters themselves</h3>
+      <p>
+        The simple geometry is undeniable. Straight, confident strokes and right angles. They're
+        almost as basic as type gets and they own it. Each of these explorations below had their
+        beginning in sketchbooks &amp; mortgage paperwork.
+      </p>
+
+      <Image src={th2} alt="Initial-mark character explorations" width={700} loading="lazy" />
+
+      <p>
+        In the end, I gravitated toward simplified lines &amp; geometry. I had tried several
+        iterations with thinner lines, but they stood too weak.
+      </p>
+
+      <Image src={th3} alt="Simplified lines and geometry" width={700} loading="lazy" />
+      <Image src={th4} alt="Black, white, and size variations" width={700} loading="lazy" />
+      <p class="caption muted small">Black, white, &amp; size variations</p>
+
+      <h3>My Scottish lineage</h3>
+      <p>
+        Each side of my family has a significant dose of Highland heritage. Kilts, tartans, &amp;
+        everything. I grew up watching the caber toss at various Highland festivals as my sister
+        competed in the highland dance contests. I enjoyed bagpipe music.
+      </p>
+      <p>
+        The color palette is pulled from one of my family tartans, the
+        <a href="https://www.lochcarron.co.uk/macinnes-hunting-ancient-heavy-weight-tartan-fabric/">Macinnes Ancient Hunting</a>
+        pattern. The top row of colors is what I've run with; the others were other
+        considerations pulled from the fabric with a color picker.
+      </p>
+
+      <Image src={th5} alt="Macinnes Ancient Hunting tartan color palette" width={700} loading="lazy" />
+      <Image src={th6} alt="Color palette applied to the mark" width={700} loading="lazy" />
+
+      <p>
+        Conveniently, the aforementioned 90-degree letterforms echo the criss-cross of tartan
+        warp and weft.
+      </p>
+
+      <Image src={th7} alt="Tartan-inspired mark variations" width={700} loading="lazy" />
+
+      <h3>Architecture</h3>
+      <p>
+        Since I was a kid, I've been messing around with architecture. CAD floorplans for fun,
+        sketching landscapes in my spare time.
+      </p>
+      <p>
+        My Instagram feed, an easy reference point for my architectural interests, consistently
+        pulls from a few quasi-paradoxical themes: thoughtful/unexpected/clever design,
+        Scandinavian simplicity, &amp; rugged, mountain cabins.
+      </p>
+      <p>
+        I like that the mark evokes for me a mountaintop retreat: the stable, wide stance of the
+        H &amp; its descending stems like downslope deck support posts. The outstretched arm of
+        the T reaches out like a cantilevered roof, sheltering what's underneath while providing
+        room to move and play and see.
+      </p>
+
+      <h3>Serendipity</h3>
+      <p>
+        I was moving some of these forms around and digitally stumbled onto a layout that just
+        worked. I ran with it &amp; am really — strangely — pleased &amp; excited about these
+        arrangements.
+      </p>
+      <p>
+        In the end, I don't know where I'd consistently use any of this. I work at Crema; I'm not
+        a freelancer doing brand/identity work; I don't really need a Personal Brand™ to this
+        degree. It's been a fun exploration &amp; explanation exercise, though, one that gets me
+        outside of my product-centric tendencies.
+      </p>
+
+      <p class="muted small">
+        Originally posted on <a href="https://medium.com/@thehilker/making-my-own-mark-d11488090287">Medium</a>, June 2019.
+      </p>
+    </article>
+  </main>
+</Layout>
+
+<style>
+  main {
+    animation: fadeIn 0.4s ease-out;
+  }
+
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(8px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+
+  header {
+    margin-bottom: 1.5rem;
+  }
+
+  .back {
+    display: inline-block;
+    margin-bottom: 1.5rem;
+    text-decoration: none;
+  }
+
+  .back:hover {
+    color: var(--color-text);
+  }
+
+  header p {
+    margin-top: 0.25rem;
+  }
+
+  article :global(img) {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+    border: 1px solid var(--color-border);
+    margin: 1.5rem 0;
+  }
+
+  .caption {
+    margin-top: -1rem;
+    text-align: center;
+  }
+</style>

@@ -1,0 +1,94 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { Image } from 'astro:assets';
+import aa1 from '../../assets/projects/aa/aa-1.png';
+import aa2 from '../../assets/projects/aa/aa-2.png';
+import aa3 from '../../assets/projects/aa/aa-3.png';
+import aa4 from '../../assets/projects/aa/aa-4.png';
+
+const images = [aa1, aa2, aa3, aa4];
+---
+
+<Layout
+  title="Adventure Academy — Tyler Hilker"
+  description="A logo for our family's homeschool program, built from a tent and a mountain hidden in the negative space."
+>
+  <main>
+    <header>
+      <a href="/" class="back muted small">← Tyler Hilker</a>
+      <h1>Adventure Academy</h1>
+      <p class="muted">Branding &amp; logo design</p>
+    </header>
+
+    <hr />
+
+    <article>
+      <p>
+        A logo for our family's homeschool program. The mark hides a tent and a mountain in its
+        negative space, a nod to a curriculum built around getting outside.
+      </p>
+      <p>
+        I intentionally avoided leaning on "school-ish" elements — books, apples, that sort of
+        thing. They read as overwrought and dominant; more literal than aspirational. The tent and
+        mountain do more with less.
+      </p>
+      <p>
+        I later found out the name was already taken — ABCmouse had a product called Adventure
+        Academy. Ah well.
+      </p>
+
+      <div class="image-stack">
+        {images.map((src) => (
+          <Image src={src} alt="Adventure Academy logo exploration" width={900} loading="lazy" />
+        ))}
+      </div>
+
+      <p class="muted small">
+        Originally posted on <a href="https://dribbble.com/shots/14050234-Adventure-Academy">Dribbble</a>.
+      </p>
+    </article>
+  </main>
+</Layout>
+
+<style>
+  main {
+    animation: fadeIn 0.4s ease-out;
+  }
+
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(8px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+
+  header {
+    margin-bottom: 1.5rem;
+  }
+
+  .back {
+    display: inline-block;
+    margin-bottom: 1.5rem;
+    text-decoration: none;
+  }
+
+  .back:hover {
+    color: var(--color-text);
+  }
+
+  header p {
+    margin-top: 0.25rem;
+  }
+
+  .image-stack {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin: 1.5rem 0;
+  }
+
+  .image-stack img {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+    border: 1px solid var(--color-border);
+  }
+</style>
